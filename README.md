@@ -1,1 +1,1 @@
-# ML_From_scratch
+Implementation of Machine Learning models from scratch
