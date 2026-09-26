@@ -9,8 +9,10 @@ A simple implementation of **Linear Regression from scratch using NumPy**, and c
 - Least Squares / Normal Equation
 - Model prediction
 - MSE and R² evaluation
+- Multicolinearity: VIF
 - 3D visualization of the regression surface
-
+- Bias Variance trade off
+- Regularization : Ridge abd Lasso
 
 ## File
 
