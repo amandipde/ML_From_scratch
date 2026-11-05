@@ -12,9 +12,9 @@ A simple implementation of **Linear Regression from scratch using NumPy**, and c
 - Multicolinearity: VIF
 - 3D visualization of the regression surface
 - Bias Variance trade off
-- Regularization : Ridge abd Lasso
+- Regularization : Ridge and Lasso
 
 ## File
 
-`Linear_regression.ipynb` — complete implementation and visualization.
-
+`Linear_regression.ipynb` --  complete implementation and visualization.
+`Linear_regression_test.ipynb` -- a case study of LR with `insurance_data.csv`  
